@@ -1,6 +1,6 @@
 {
-    "name": "yolo",
-    "short_name": "yolo",
+    "name": "responsive_ui_practise",
+    "short_name": "responsive_ui_practise",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
